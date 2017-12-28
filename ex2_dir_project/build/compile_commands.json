@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/build",
+  "command": "/usr/bin/c++    -I/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/include    -o CMakeFiles/test_student.dir/src/student.cpp.o -c /home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/src/student.cpp",
+  "file": "/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/src/student.cpp"
+},
+{
+  "directory": "/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/build",
+  "command": "/usr/bin/c++    -I/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/include    -o CMakeFiles/test_student.dir/src/hello_world.cpp.o -c /home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/src/hello_world.cpp",
+  "file": "/home/xiaofanlin/git/cmake_learning/ex2_dir_projecy/src/hello_world.cpp"
+}
+]
