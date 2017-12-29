@@ -46,4 +46,15 @@ Run again
 
 Message("${a}") shows 2
 
+## Case 4: Forced Cache var after Reg var
 
+set(A "123")
+set(A "456" CACHE STRING "" FORCE)
+
+message("A: ${A}") shows 456.
+
+Run again
+
+message("A: ${A}") shows 456.
+
+Self-explained.
